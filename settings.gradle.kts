@@ -17,4 +17,5 @@ plugins {
 }
 
 rootProject.name = "Sopheap"
-include("app", "list", "utilities")
+include(":app")
+

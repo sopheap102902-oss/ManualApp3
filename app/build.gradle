@@ -1,9 +1,6 @@
 plugins {
-    id 'com.android.application' version '8.1.0' apply false
+    id 'com.android.application'
 }
-
-// ផ្នែកនេះសម្រាប់កំណត់ Android
-apply plugin: 'com.android.application'
 
 android {
     namespace 'com.sopheap.app'
